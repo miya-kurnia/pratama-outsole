@@ -1,0 +1,77 @@
+{
+    "menu" : [
+        {
+            "id" : 1,
+            "title" : "Egg With",
+            "category" : "Healty Food",
+            "price" : 25,
+            "rating" : 2.1,
+            "desc" : "Lorem ipsum dolor sit amet adipisicing elit voluptas earum.",
+            "image" : "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+        },
+        {
+            "id" : 2,
+            "title" : "Hamburger",
+            "category" : "Fast Food",
+            "price" : 30,
+            "rating" : 2.4,
+            "desc" : "Lorem ipsum dolor sit amet adipisicing elit voluptas earum.",
+            "image" : "https://images.unsplash.com/photo-1572448862527-d3c904757de6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+        },
+        {
+            "id" : 3,
+            "title" : "Pizza",
+            "category" : "Fast Food",
+            "price" : 45,
+            "rating" : 2.5,
+            "desc" : "Lorem ipsum dolor sit amet adipisicing elit voluptas earum.",
+            "image" : "https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2742&q=80"
+        },
+        {
+            "id" : 4,
+            "title" : "Meat with salad",
+            "category" : "Healty Food",
+            "price" : 28,
+            "rating" : 2.1,
+            "desc" : "Lorem ipsum dolor sit amet adipisicing elit voluptas earum.",
+            "image" : "https://images.unsplash.com/photo-1604909052743-94e838986d24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+        },
+        {
+            "id" : 5,
+            "title" : "Chicken with salad",
+            "category" : "Healty Food",
+            "price" : 28,
+            "rating" : 2.5,
+            "desc" : "Lorem ipsum dolor sit amet adipisicing elit voluptas earum.",
+            "image" : "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+        },
+        {
+            "id" : 6,
+            "title" : "Salad Egg",
+            "category" : "Healty Food",
+            "price" : 35,
+            "rating" : 3.1,
+            "desc" : "Lorem ipsum dolor sit amet adipisicing elit voluptas earum.",
+            "image" : "https://images.unsplash.com/photo-1631880383152-f29099b0fd16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1487&q=80"
+        },
+        {
+            "id" : 7,
+            "title" : "Ramen",
+            "category" : "Fast Food",
+            "price" : 28,
+            "rating" : 2.7,
+            "desc" : "Lorem ipsum dolor sit amet adipisicing elit voluptas earum.",
+            "image" : "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+        },
+        {
+            "id" : 8,
+            "title" : "Fried Potato",
+            "category" : "Fast Food",
+            "price" : 25,
+            "rating" : 2.5,
+            "desc" : "Lorem ipsum dolor sit amet adipisicing elit voluptas earum.",
+            "image" : "https://images.unsplash.com/photo-1639744091981-2f826321fae6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+        }
+        
+    ]
+}
